@@ -33,7 +33,7 @@ var config = {
         turn_on: "PENCET YA BUAT NYALAIN",
         play: "MULAI",
         bannar_coming: "KOK SEPI, KLIK LG DONG",
-        balloons_flying: "DEKORIN AYANF",
+        balloons_flying: "DEKORIN AYANG",
         cake_fadein: "ADA KUENYA LOH ？",
         light_candle: "DITIUP YA LILINYA ？",
         wish_message: "HAPPY ANNIVERSARY AYANGGACU!!",
